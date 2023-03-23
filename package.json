@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/tarfao/whatsapp_chat_gpt#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1",
     "venom-bot": "^4.3.7"
   }
 }
